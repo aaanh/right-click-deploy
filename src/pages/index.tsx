@@ -22,7 +22,7 @@ const Home: NextPage = () => {
         </header>
         <br></br>
         <section className="flex flex-col items-center justify-center text-6xl font-light text-cyan-300">
-          Alpha release coming soon...
+          Cool stuff coming soon fr fr
         </section>
         <br></br>
         <section className="flex items-center justify-center space-x-4 text-neutral-200">
