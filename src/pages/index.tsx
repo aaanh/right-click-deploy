@@ -34,7 +34,7 @@ const Home: NextPage = () => {
         <br></br>
         <section className="flex-col items-center justify-center text-6xl">
           <h1 className="animate-text text-4xl py-2 bg-gradient-to-r text-transparent bg-clip-text from-rose-400 via-green-300 to-blue-300 inline-block">
-            &quot;Wait, so how did you guys deployed it?&quot;
+            &quot;Wait, so how did you guys deploy it?&quot;
           </h1>
         </section>
 
