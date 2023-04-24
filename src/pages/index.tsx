@@ -1,6 +1,5 @@
 import { type NextPage } from "next";
 import Head from "next/head";
-import Link from "next/link";
 import { useState } from "react";
 
 import { AiFillGithub } from "react-icons/ai";
@@ -39,7 +38,7 @@ const Home: NextPage = () => {
         <br></br>
         <section className="flex items-center justify-center space-x-4 text-neutral-200">
           <p>Learn more:</p>
-          <a target="_blank" rel="noreferrer" href="https://github.com/aaanh-enterprise/right-click-deploy">
+          <a target="_blank" rel="noreferrer" href="https://github.com/aaanh/right-click-deploy">
             <AiFillGithub size={36}></AiFillGithub>
           </a>
           <button className="text-2xl" onClick={handleManifestPopup}>
