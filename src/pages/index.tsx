@@ -35,8 +35,8 @@ const Home: NextPage = () => {
         <section className="flex flex-col items-center justify-center text-6xl font-light text-sky-400">
           {`"Wait, so how did you guys deployed it?"`}
         </section>
-        <br></br>
-        <section className="flex items-center justify-center space-x-4 text-neutral-200">
+
+        <section className="flex items-center justify-center space-x-4 text-neutral-200 mt-6">
           <p>Learn more:</p>
           <a target="_blank" rel="noreferrer" href="https://github.com/aaanh/right-click-deploy">
             <AiFillGithub size={36}></AiFillGithub>
